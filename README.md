@@ -1,0 +1,2 @@
+# DistributedRPC
+本项目基于RPC 通信原理使用C++编写的分布式TCP通信框架(RPC框架)。使用muduo网络库实现高并发的RPC同步调用请求处理，使用Protobuf进行序列化和反序列化，采用ZooKeeper作为服务注册配置管理中心提供服务注册和服务发现功能。
