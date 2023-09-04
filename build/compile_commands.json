@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/rpc.dir/log.cc.o -c /home/chengyongtao/VScode/DistributedRPC/src/log.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/src/log.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/rpc.dir/rpcApplication.cc.o -c /home/chengyongtao/VScode/DistributedRPC/src/rpcApplication.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/src/rpcApplication.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/rpc.dir/rpcChannel.cc.o -c /home/chengyongtao/VScode/DistributedRPC/src/rpcChannel.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/src/rpcChannel.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/rpc.dir/rpcConfig.cc.o -c /home/chengyongtao/VScode/DistributedRPC/src/rpcConfig.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/src/rpcConfig.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/rpc.dir/rpcContorller.cc.o -c /home/chengyongtao/VScode/DistributedRPC/src/rpcContorller.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/src/rpcContorller.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/rpc.dir/rpcHeader.pb.cc.o -c /home/chengyongtao/VScode/DistributedRPC/src/rpcHeader.pb.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/src/rpcHeader.pb.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/rpc.dir/rpcProvider.cc.o -c /home/chengyongtao/VScode/DistributedRPC/src/rpcProvider.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/src/rpcProvider.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/rpc.dir/zookeeperUtil.cc.o -c /home/chengyongtao/VScode/DistributedRPC/src/zookeeperUtil.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/src/zookeeperUtil.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/provider.dir/userservice.cc.o -c /home/chengyongtao/VScode/DistributedRPC/example/callee/userservice.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/example/callee/userservice.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/chengyongtao/VScode/DistributedRPC/example/user.pb.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/example/user.pb.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/caller.dir/calluservice.cc.o -c /home/chengyongtao/VScode/DistributedRPC/example/caller/calluservice.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/example/caller/calluservice.cc"
+},
+{
+  "directory": "/home/chengyongtao/VScode/DistributedRPC/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/chengyongtao/VScode/DistributedRPC/include -I/home/chengyongtao/VScode/DistributedRPC/example  -g   -std=gnu++11 -o CMakeFiles/caller.dir/__/user.pb.cc.o -c /home/chengyongtao/VScode/DistributedRPC/example/user.pb.cc",
+  "file": "/home/chengyongtao/VScode/DistributedRPC/example/user.pb.cc"
+}
+]
